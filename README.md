@@ -1,0 +1,1 @@
+This repository demonstrates an example of an unhandled error in a nested MATLAB function. The function `myFunction` calls `someOtherFunction`, which can throw an error if the input is zero.  The solution shows how to properly handle this error using try-catch blocks.
